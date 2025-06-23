@@ -26,7 +26,7 @@
 |--------|-----------|-------------|
 | [Portfólio](https://luancarlozz.github.io/Portfolio-html-css-js/) | Site pessoal com meus projetos e contato | HTML, CSS |
 | [Projeto Individual](https://luancarlozz.github.io/Projeto-Curso-Senac---Codificador/) | Página criada durante o curso com foco em JavaScript | JS, HTML e CSS |
-| [Layout Gráfico]() | Arte desenvolvida para Catálogo | Design gráfico |
+| [Layout Gráfico](Alvarenga Catálogo (1).pdf) | Arte desenvolvida para Catálogo | Design gráfico |
 
 ---
 
