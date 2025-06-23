@@ -12,13 +12,11 @@
 - Layout responsivo
 - Acessibilidade
 - Boas práticas de semântica
-- Versionamento com Git/GitHub
 
 ### 🖌️ Design
 - Photoshop e Canva
 - Criação de identidade visual
 - Produção gráfica para mídias digitais e impressas
-- Noções de UI/UX
 
 ---
 
@@ -42,7 +40,7 @@ Tecnologias Front-End
 ---
 
 ## 📫 Contato
-- 💼 [LinkedIn](www.linkedin.com/in/luan-carlos-8395051ba)
+- 💼 [LinkedIn] (www.linkedin.com/in/luan-carlos-8395051ba)
 - ✉️ Email: luangracine@gmail.com
 
 ---
